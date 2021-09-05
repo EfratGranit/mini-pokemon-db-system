@@ -4,4 +4,5 @@ this project migrates pokemon data into a DB and define queries over the DB, and
 </br>the server layer works on HTTP routes using GET, POST, PUT, DELETE methods
 </br>the sql layer works with an external API: https://pokeapi.co/
 </br>packages: flask, pymysql
-</br>authors: Efrat Granit, Sara Rozin
+#authors
+Efrat Granit, Sara Rozin
